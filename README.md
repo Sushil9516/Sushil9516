@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Sushil Kumar Soni
 
-<!--
-**Sushil9516/Sushil9516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Software Engineer  
+🚀 MERN Stack Developer | React Native Developer  
+🎓 B.Tech in Computer Science & Engineering  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web and mobile applications using modern JavaScript technologies. I enjoy working across the full stack—crafting beautiful UIs and developing efficient backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack  
+**Frontend:** React, React Native, JavaScript, TypeScript, Redux Toolkit, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+### 🔥 Featured Projects  
+- **Chat App (MERN + Socket.io):** Real-time messaging, user auth, responsive UI  
+- **E-Commerce App (MERN + Stripe):** Payments, cart, product listing, secure backend  
+- **Admin Dashboard:** Role-based authentication, dynamic analytics  
+- **Mobile App (React Native):** Beautiful UI, API integration, fast performance  
+
+---
+
+### 📫 Connect with Me  
+🔗 LinkedIn: www.linkedin.com/in/sushil-kumar-soni  
+🔗 GitHub: github.com/Sushil9516  
+📧 Email: sonisushil9516@gmail.com
