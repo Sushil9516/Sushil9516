@@ -7,7 +7,7 @@
 
 # 🧑‍💻 About Me
 🌑 Passionate **Full-Stack Developer** who loves crafting beautiful UIs and building scalable backend systems.  
-🔥 Working with **MERN + React Native**, making real-time, modern applications.  
+🔥 Working with **MERN + MEAN + React Native**, making real-time, modern applications.  
 🎯 Goal: Become a top 1% full-stack engineer.
 
 ---
