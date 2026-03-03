@@ -1,16 +1,16 @@
-<!-- Banner / Typing Animation -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sushil+Kumar+Soni;Software+Engineer;MERN+Stack+Developer;React+Native+Developer;Full+Stack+JavaScript+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sushil+Kumar+Soni;Software+Engineer;MERN+Stack+Developer;React+Native+Developer;Full+Stack+JavaScript+Developer" />
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-🚀 Full-Stack JavaScript Developer with 2+ years of experience  
-🔥 Building scalable applications using **MERN + MEAN + React Native**  
-💡 Strong focus on real-time systems, clean UI, and backend architecture  
-🎯 Mission: Become a Top 1% Full-Stack Engineer  
+🚀 Full-Stack JavaScript Developer  
+🔥 Working with MERN Stack & React Native  
+💡 Passionate about scalable backend systems & clean UI  
+🎯 Goal: Become a Top 1% Full-Stack Engineer  
 
 ---
 
@@ -43,43 +43,35 @@
 # 🔥 Featured Projects
 
 ### 💬 Chat App (MERN + Socket.io)
-- Real-time 1-to-1 messaging  
-- JWT authentication  
-- Online status tracking  
-- Clean responsive UI  
+- Real-time messaging
+- JWT authentication
+- Online status tracking
 
 ### 🛒 E-Commerce Platform
-- Product listing & filtering  
-- Cart & checkout  
-- Stripe payment integration  
-- Admin product management  
+- Product listing & filtering
+- Stripe payment integration
+- Admin management
 
 ### 📊 Admin Dashboard
-- Role-based authentication  
-- Analytics & charts  
-- Real-time updates  
+- Role-based authentication
+- Analytics & charts
 
-### 📱 React Native Application
-- API integration  
-- Modern UI  
-- Cross-platform support  
+### 📱 React Native App
+- API integration
+- Cross-platform UI
 
 ---
----
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
+### 🔥 Streak Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sushil9516&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Sushil9516&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sushil9516&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🌐 Most Used Languages
-
+### 📅 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sushil9516&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushil9516&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +82,7 @@
   <img src="https://leetcard.jacoblin.cool/sonisushil9516?theme=dark&font=Baloo%202&ext=contest" />
 </p>
 
-🎯 Actively solving Data Structures & Algorithms to master problem-solving and system design fundamentals.
+🎯 Solving DSA daily to strengthen problem-solving & system design skills.
 
 ---
 
@@ -112,4 +104,4 @@
 
 ---
 
-⭐️ From [Sushil9516](https://github.com/Sushil9516)
+⭐ From [Sushil9516](https://github.com/Sushil9516)
