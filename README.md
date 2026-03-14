@@ -9,7 +9,7 @@
 # 🧑‍💻 About Me
 
 🚀 Full-Stack JavaScript Developer  
-🔥 Working with MERN Stack & React Native  
+🔥 Working with MERN Stack, MEAN Stack & React Native  
 💡 Passionate about scalable backend systems & clean UI  
 🎯 Goal: Become a Top 1% Full-Stack Engineer  
 
